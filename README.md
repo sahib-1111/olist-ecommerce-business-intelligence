@@ -244,7 +244,7 @@ olist-ecommerce-business-intelligence
 
 **Sahib Singh Hanspal**
 
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: *(https://www.linkedin.com/in/sahib-singh-hanspal-834056299/)*
 - GitHub: https://github.com/sahib-1111
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
