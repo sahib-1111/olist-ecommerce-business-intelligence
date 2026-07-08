@@ -178,3 +178,73 @@ Visualizes customer retention across cohorts to understand repeat purchase behav
 ![Cohort Analysis](screenshots/COHORT.png)
 
 ---
+# 💡 Key Business Insights
+
+- Revenue is primarily concentrated in São Paulo (SP), making it the highest-performing state.
+- Credit Card is the dominant payment method across customer transactions.
+- Health & Beauty, Watches, and Bed & Bath are among the highest revenue-generating product categories.
+- Approximately 58% of customer reviews are 5-star ratings, indicating strong customer satisfaction.
+- RFM analysis identifies Champions, Loyal Customers, Potential Loyalists, At-Risk Customers, and Lost Customers for targeted marketing campaigns.
+- Cohort Analysis shows a significant drop in customer retention after the first purchase, highlighting opportunities for customer retention strategies.
+- Operations dashboards reveal delivery performance and freight costs across different states, enabling logistics optimization.
+
+
+
+- # 📂 Repository Structure
+
+```
+olist-ecommerce-business-intelligence
+│
+├── data/
+│   └── Dataset_Link.md
+│
+├── documentation/
+│   └── Data_Model.png
+│
+├── powerbi/
+│   └── README.md
+│
+├── screenshots/
+│   ├── EXCECUTIVE BUSINESS OVERVIEW.png
+│   ├── SALES ANALYTICS.png
+│   ├── CUSTOMER ANALYTICS.png
+│   ├── PRODUCT ANALYTICS.png
+│   ├── SELLER ANALYTICS.png
+│   ├── OPERATIONS & LOGISTICS.png
+│   ├── CUSTOMER EXPERIENCE.png
+│   ├── RFM CUSTOMER SEGMENTATION.png
+│   └── COHORT.png
+│
+└── sql/
+    ├── 01_database_setup.sql
+    ├── 02_business_queries.sql
+    ├── 03_rfm_analysis.sql
+    └── 04_cohort_analysis.sql
+```
+# 🚀 How to Run
+
+1. Download the Olist dataset from Kaggle.
+2. Import the CSV files into PostgreSQL.
+3. Execute the SQL scripts in the `sql/` folder.
+4. Load the processed tables into Power BI.
+5. Refresh the data model.
+6. Explore the interactive dashboards.
+
+
+# 📈 Future Enhancements
+
+- Sales Forecasting using Time Series Analysis
+- Customer Churn Prediction
+- Inventory Optimization Dashboard
+- Executive AI Insights
+- Automated KPI Alerts
+- Power BI Service Deployment
+
+# 👨‍💻 Author
+
+**Sahib Singh Hanspal**
+
+- LinkedIn: *(Add your LinkedIn profile link)*
+- GitHub: https://github.com/sahib-1111
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
